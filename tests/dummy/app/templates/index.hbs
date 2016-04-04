@@ -1,0 +1,10 @@
+With existing markup (10k rows):
+{{#ember-clusterize}}
+    {{#each rows as |row|}}
+        {{{row}}}
+    {{/each}}
+{{/ember-clusterize}}
+<hr>
+With rows as binding (10k rows):
+{{#ember-clusterize data=rows}}
+{{/ember-clusterize}}

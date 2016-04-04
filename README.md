@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Ember-clusterize
 
 This README outlines the details of collaborating on this Ember addon.
